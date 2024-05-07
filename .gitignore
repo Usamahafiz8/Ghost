@@ -64,7 +64,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # direnv
 .direnv
@@ -169,3 +168,4 @@ tsconfig.tsbuildinfo
 /apps/admin-x-settings/test-results/
 /apps/admin-x-settings/playwright-report/
 /apps/admin-x-settings/playwright/.cache/
+config.bat
